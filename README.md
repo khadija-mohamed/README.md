@@ -3,4 +3,4 @@
 ###### This is an H6 header (smallest)
 ## Summary
 
-This repository contains all of the notes taken by Khadija for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Khadija](https://github.com/khadija-mohamed) for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/).
